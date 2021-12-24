@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/merry-christmas/static/css/main.b9a87039.chunk.css",
-    "main.js": "/merry-christmas/static/js/main.6fc79087.chunk.js",
-    "main.js.map": "/merry-christmas/static/js/main.6fc79087.chunk.js.map",
+    "main.css": "/merry-christmas/static/css/main.e69bc5a3.chunk.css",
+    "main.js": "/merry-christmas/static/js/main.7e95ecf2.chunk.js",
+    "main.js.map": "/merry-christmas/static/js/main.7e95ecf2.chunk.js.map",
     "runtime-main.js": "/merry-christmas/static/js/runtime-main.523b19c0.js",
     "runtime-main.js.map": "/merry-christmas/static/js/runtime-main.523b19c0.js.map",
-    "static/js/2.44e020df.chunk.js": "/merry-christmas/static/js/2.44e020df.chunk.js",
-    "static/js/2.44e020df.chunk.js.map": "/merry-christmas/static/js/2.44e020df.chunk.js.map",
+    "static/js/2.4a0c0a68.chunk.js": "/merry-christmas/static/js/2.4a0c0a68.chunk.js",
+    "static/js/2.4a0c0a68.chunk.js.map": "/merry-christmas/static/js/2.4a0c0a68.chunk.js.map",
     "index.html": "/merry-christmas/index.html",
-    "static/css/main.b9a87039.chunk.css.map": "/merry-christmas/static/css/main.b9a87039.chunk.css.map",
-    "static/js/2.44e020df.chunk.js.LICENSE.txt": "/merry-christmas/static/js/2.44e020df.chunk.js.LICENSE.txt"
+    "static/css/main.e69bc5a3.chunk.css.map": "/merry-christmas/static/css/main.e69bc5a3.chunk.css.map",
+    "static/js/2.4a0c0a68.chunk.js.LICENSE.txt": "/merry-christmas/static/js/2.4a0c0a68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.523b19c0.js",
-    "static/js/2.44e020df.chunk.js",
-    "static/css/main.b9a87039.chunk.css",
-    "static/js/main.6fc79087.chunk.js"
+    "static/js/2.4a0c0a68.chunk.js",
+    "static/css/main.e69bc5a3.chunk.css",
+    "static/js/main.7e95ecf2.chunk.js"
   ]
 }
